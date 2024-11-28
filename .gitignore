@@ -1,0 +1,11 @@
+cmake_export/.cache
+cmake_export/.idea
+cmake_export/build
+cmake_export/build
+cmake_export/cmake-build-debug
+cmake_export/cmake-build-Release
+cmake_export_use/build
+cmake_export_use/cmake-build-debug
+cmake_export_use/cmake-build-Release
+cmake_export_use/.cache
+cmake_export_use/.idea
